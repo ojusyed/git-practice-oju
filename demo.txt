@@ -1,0 +1,6 @@
+public class Demo{
+  publilc void m1(){ 
+       //write logix here
+
+   }
+}
